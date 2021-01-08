@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517731577188",
+    "firebase_url": "https://eventwork03-cae24.firebaseio.com",
+    "project_id": "eventwork03-cae24",
+    "storage_bucket": "eventwork03-cae24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517731577188:android:5294b92ced65e5bb049e71",
+        "android_client_info": {
+          "package_name": "com.eventwork03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517731577188-ckva3fcl0kh2io35il2nvcj08oqmk6c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eventwork03",
+            "certificate_hash": "cab2d63fec553d53be265fdc1efd59b8ed01d5b8"
+          }
+        },
+        {
+          "client_id": "517731577188-skiuvasoegqr58rn0cj7lpjpem1r7jce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDISg8L70Tj7fZkGmEaDA-JsNBHOYrSJok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517731577188-skiuvasoegqr58rn0cj7lpjpem1r7jce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
